@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is a URL.</reason>
+		</ignore>
+	</file>
+	<file path="imprint.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is a URL.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
