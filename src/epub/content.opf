@@ -42,6 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://bookwise.io/thomas-mann/the-magic-mountain-htlp</dc:source>
 		<dc:source>https://archive.org/details/magicmountain0000thom_f1h8</dc:source>
+		<meta property="se:production-notes">`Finis operis` is kept at the end of the work because the text deals with operas and epics, so the inclusion may be a literary device.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Magic_Mountain</meta>

@@ -18,4 +18,10 @@
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-7-10.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Ending phrase doesn't require punctuation.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
