@@ -63,10 +63,11 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50040385</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Harald Sohlberg</dc:contributor>
-		<meta property="file-as" refines="#artist">Sohlberg, Harald</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Harald_Sohlberg</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n92071523</meta>
+		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
+		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Vincent Willem van Gogh</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022935</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Bookwise.io</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bookwise.io</meta>
