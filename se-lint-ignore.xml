@@ -18,16 +18,4 @@
 			<reason>Ending phrase doesn't require punctuation.</reason>
 		</ignore>
 	</file>
-	<file path="colophon.xhtml">
-		<ignore>
-			<code>y-034</code>
-			<reason>Matched text is a URL.</reason>
-		</ignore>
-	</file>
-	<file path="imprint.xhtml">
-		<ignore>
-			<code>y-034</code>
-			<reason>Matched text is a URL.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
