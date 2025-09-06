@@ -44,3 +44,8 @@ footer{
 .telegram{
 	font-variant: all-small-caps;
 }
+
+[epub|type~="z3998:letter"] header{
+	font-variant: small-caps;
+	text-align: initial;
+}
