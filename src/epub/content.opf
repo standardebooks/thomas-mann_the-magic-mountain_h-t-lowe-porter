@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-07T22:50:38Z</dc:date>
+		<meta property="dcterms:modified">2025-09-07T22:50:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,16 +38,18 @@
 		<meta id="collection-1" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">40</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man visits his cousin in a sanitarium in the mountains, only to see himself become one of its patients.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Hans Castorp is a young man ready to start a career in shipbuilding—but before he does, he decides to visit his cousin Joachim, a patient residing at a tuberculosis sanatorium in the mountains of Switzerland. Castorp enjoys meeting and chatting with with the wide array of colorful personalities living at the sanatorium, until its director delivers some bad news: Castorp, too, has symptoms of disease, and must remain at the sanatorium indefinitely. Thus begins a black comedy spanning years, in which he lives and learns in this self-contained world in the mountains.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Magic Mountain&lt;/i&gt; is a bildungsroman and an allegory of the years surrounding World War I, in which Castorp, a naive blank slate symbolizing the Weimar Republic, spends time with the motley crew in the sanatorium, who each represent the nations and ideologies of Europe vying for his attention. World War I broke out and concluded as &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Mann&lt;/a&gt; was writing the novel; at first, he was opposed to the Weimar Republic, but he later changed his mind, and this development in his personal philosophy is reflected in how Castorp and the patients interact over the years, and in Castorp’s ultimate fate.&lt;/p&gt;
+			&lt;p&gt;Adding to the novel’s staying power are its many layers of allegory and allusion, including Greek mythology, European fable, music, opera, and theater, literature, mysticism, numerology, medicine, and philosophy. Above these layers is Mann’s overarching message of illness and death as necessary struggles to overcome before reaching a fulfilled life, a theme from his earlier novella, “Death in Venice,” that he explicitly wished to revisit and expand upon.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://bookwise.io/thomas-mann/the-magic-mountain-htlp</dc:source>
 		<dc:source>https://archive.org/details/magicmountain0000thom_f1h8</dc:source>
 		<meta property="se:production-notes">`Finis operis` is kept at the end of the work because the text deals with operas and epics, so the inclusion may be a literary device.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">328955</meta>
+		<meta property="se:reading-ease.flesch">57.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Magic_Mountain</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-mann_the-magic-mountain_h-t-lowe-porter</meta>
 		<dc:creator id="author">Thomas Mann</dc:creator>
