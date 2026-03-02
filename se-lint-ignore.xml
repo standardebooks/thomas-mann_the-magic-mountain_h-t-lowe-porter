@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-6-4.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-7-1.xhtml">
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>Matching text is grammatically correct.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-7-10.xhtml">
-		<ignore>
-			<code>y-003</code>
+		<ignore code="y-003">
 			<reason>Ending phrase doesn't require punctuation.</reason>
 		</ignore>
 	</file>
