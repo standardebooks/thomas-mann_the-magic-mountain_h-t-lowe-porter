@@ -2,16 +2,19 @@
 <se-lint-ignore>
 	<file path="chapter-6-4.xhtml">
 		<ignore code="s-023">
+			<line>10</line>
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-7-1.xhtml">
 		<ignore code="t-033">
+			<line>15</line>
 			<reason>Matching text is grammatically correct.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-7-10.xhtml">
 		<ignore code="y-003">
+			<line>53</line>
 			<reason>Ending phrase doesn't require punctuation.</reason>
 		</ignore>
 	</file>
