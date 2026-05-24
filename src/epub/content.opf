@@ -39,6 +39,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">40</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">42</meta>
 		<dc:description id="description">A young man visits his cousin in a sanitarium in the mountains, only to see himself become one of its patients.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Hans Castorp is a young man ready to start a career in shipbuilding—but before he does, he decides to visit his cousin Joachim, a patient residing at a tuberculosis sanatorium in the mountains of Switzerland. Castorp enjoys meeting and chatting with the wide array of colorful personalities living at the sanatorium, until its director delivers some bad news: Castorp, too, has symptoms of disease, and must remain at the sanatorium indefinitely. Thus begins a black comedy spanning years, in which he lives and learns in this self-contained world in the mountains.&lt;/p&gt;
