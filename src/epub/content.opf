@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://bookwise.io/thomas-mann/the-magic-mountain-htlp</dc:source>
 		<dc:source>https://archive.org/details/magicmountain0000thom_f1h8</dc:source>
-		<meta property="schema:wordCount">326132</meta>
+		<meta property="schema:wordCount">326128</meta>
 		<meta property="schema:educationalLevel">57.91</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Magic_Mountain" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
